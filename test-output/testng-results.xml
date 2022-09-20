@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-19T20:23:42 EDT" name="Default suite" finished-at="2022-09-19T20:23:47 EDT" duration-ms="5025">
+  <suite started-at="2022-09-19T21:28:27 EDT" name="Default suite" finished-at="2022-09-19T21:28:32 EDT" duration-ms="4662">
     <groups>
     </groups>
-    <test started-at="2022-09-19T20:23:42 EDT" name="Default test" finished-at="2022-09-19T20:23:47 EDT" duration-ms="5025">
+    <test started-at="2022-09-19T21:28:27 EDT" name="Default test" finished-at="2022-09-19T21:28:32 EDT" duration-ms="4662">
       <class name="pages.HomePageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:pages.HomePageTest@d737b89]" started-at="2022-09-19T20:23:42 EDT" name="setup" finished-at="2022-09-19T20:23:46 EDT" duration-ms="4874" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pages.HomePageTest@d737b89]" started-at="2022-09-19T21:28:27 EDT" name="setup" finished-at="2022-09-19T21:28:32 EDT" duration-ms="4631" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="clickUserIdFieldTest()[pri:0, instance:pages.HomePageTest@d737b89]" started-at="2022-09-19T20:23:46 EDT" name="clickUserIdFieldTest" finished-at="2022-09-19T20:23:46 EDT" duration-ms="3" status="PASS">
+        <test-method signature="clickUserIdFieldTest()[pri:0, instance:pages.HomePageTest@d737b89]" started-at="2022-09-19T21:28:32 EDT" name="clickUserIdFieldTest" finished-at="2022-09-19T21:28:32 EDT" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickUserIdFieldTest -->
-        <test-method is-config="true" signature="tearup()[pri:0, instance:pages.HomePageTest@d737b89]" started-at="2022-09-19T20:23:46 EDT" name="tearup" finished-at="2022-09-19T20:23:47 EDT" duration-ms="123" status="PASS">
+        <test-method is-config="true" signature="tearup()[pri:0, instance:pages.HomePageTest@d737b89]" started-at="2022-09-19T21:28:32 EDT" name="tearup" finished-at="2022-09-19T21:28:32 EDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearup -->
